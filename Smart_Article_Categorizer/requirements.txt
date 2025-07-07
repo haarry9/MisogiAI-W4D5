@@ -1,0 +1,12 @@
+# Core Libraries
+flask
+scikit-learn
+numpy
+
+# NLP & Embeddings
+transformers
+torch
+sentence-transformers
+openai
+python-dotenv
+gensim 
