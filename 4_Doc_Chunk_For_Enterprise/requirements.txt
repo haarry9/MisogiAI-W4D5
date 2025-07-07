@@ -1,0 +1,7 @@
+langchain
+scikit-learn
+pandas
+numpy
+PyPDF2
+tqdm
+faker 

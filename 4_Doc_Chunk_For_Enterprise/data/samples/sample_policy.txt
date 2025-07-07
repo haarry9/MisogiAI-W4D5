@@ -1,0 +1,16 @@
+Company Data Handling Policy
+
+Effective Date: 2023-01-01
+Document ID: POL-DH-001
+
+1. Introduction
+This policy outlines the procedures for handling sensitive and confidential company data. All employees are required to adhere to these guidelines to ensure the security and integrity of our information assets.
+
+2. Data Classification
+Data is classified into three levels:
+- Public: Information intended for public consumption.
+- Internal: Information for company-wide use.
+- Confidential: Highly sensitive information, accessible only to authorized personnel. This includes financial records, customer PII, and strategic plans.
+
+3. Handling Confidential Data
+Access to confidential data is strictly on a need-to-know basis. It must not be shared externally without explicit permission from the security department. All confidential documents must be encrypted when stored or transmitted. 
